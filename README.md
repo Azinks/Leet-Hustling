@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Azinks/Leet-Hustling/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Azinks/Leet-Hustling/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Azinks/Leet-Hustling/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Azinks/Leet-Hustling/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Azinks/Leet-Hustling/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2370-longest-ideal-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/2370-longest-ideal-subsequence/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
