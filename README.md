@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1575-count-all-possible-routes](https://github.com/Azinks/Leet-Hustling/tree/main/1575-count-all-possible-routes/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Azinks/Leet-Hustling/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Azinks/Leet-Hustling/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Azinks/Leet-Hustling/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3366-minimum-array-sum](https://github.com/Azinks/Leet-Hustling/tree/main/3366-minimum-array-sum/) | Medium |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Azinks/Leet-Hustling/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1575-count-all-possible-routes](https://github.com/Azinks/Leet-Hustling/tree/main/1575-count-all-possible-routes/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Azinks/Leet-Hustling/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2370-longest-ideal-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [3366-minimum-array-sum](https://github.com/Azinks/Leet-Hustling/tree/main/3366-minimum-array-sum/) | Medium |
 ## Sliding Window
@@ -71,4 +74,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1575-count-all-possible-routes](https://github.com/Azinks/Leet-Hustling/tree/main/1575-count-all-possible-routes/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 <!---LeetCode Topics End-->
