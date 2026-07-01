@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Azinks/Leet-Hustling/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1575-count-all-possible-routes](https://github.com/Azinks/Leet-Hustling/tree/main/1575-count-all-possible-routes/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Azinks/Leet-Hustling/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0799-champagne-tower](https://github.com/Azinks/Leet-Hustling/tree/main/0799-champagne-tower/) | Medium |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Azinks/Leet-Hustling/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1575-count-all-possible-routes](https://github.com/Azinks/Leet-Hustling/tree/main/1575-count-all-possible-routes/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Azinks/Leet-Hustling/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
