@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Azinks/Leet-Hustling/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
+| [1463-cherry-pickup-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1575-count-all-possible-routes](https://github.com/Azinks/Leet-Hustling/tree/main/1575-count-all-possible-routes/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Azinks/Leet-Hustling/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-champagne-tower](https://github.com/Azinks/Leet-Hustling/tree/main/0799-champagne-tower/) | Medium |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Azinks/Leet-Hustling/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Azinks/Leet-Hustling/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
+| [1463-cherry-pickup-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1575-count-all-possible-routes](https://github.com/Azinks/Leet-Hustling/tree/main/1575-count-all-possible-routes/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Azinks/Leet-Hustling/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -91,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Azinks/Leet-Hustling/tree/main/0412-fizz-buzz/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1463-cherry-pickup-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1463-cherry-pickup-ii/) | Hard |
 <!---LeetCode Topics End-->
