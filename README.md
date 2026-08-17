@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0688-knight-probability-in-chessboard](https://github.com/Azinks/Leet-Hustling/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0799-champagne-tower](https://github.com/Azinks/Leet-Hustling/tree/main/0799-champagne-tower/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Azinks/Leet-Hustling/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
