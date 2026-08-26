@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0877-stone-game](https://github.com/Azinks/Leet-Hustling/tree/main/0877-stone-game/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Azinks/Leet-Hustling/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Azinks/Leet-Hustling/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Azinks/Leet-Hustling/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Azinks/Leet-Hustling/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1824-minimum-sideway-jumps](https://github.com/Azinks/Leet-Hustling/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Azinks/Leet-Hustling/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Sorting
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Azinks/Leet-Hustling/tree/main/0877-stone-game/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Azinks/Leet-Hustling/tree/main/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Azinks/Leet-Hustling/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Azinks/Leet-Hustling/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Azinks/Leet-Hustling/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Azinks/Leet-Hustling/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
