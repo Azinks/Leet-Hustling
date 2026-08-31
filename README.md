@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Azinks/Leet-Hustling/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Azinks/Leet-Hustling/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Azinks/Leet-Hustling/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Azinks/Leet-Hustling/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2370-longest-ideal-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [3366-minimum-array-sum](https://github.com/Azinks/Leet-Hustling/tree/main/3366-minimum-array-sum/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Azinks/Leet-Hustling/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Azinks/Leet-Hustling/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1463-cherry-pickup-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Azinks/Leet-Hustling/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Azinks/Leet-Hustling/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
