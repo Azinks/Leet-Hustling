@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Azinks/Leet-Hustling/tree/main/0412-fizz-buzz/) | Easy |
 | [0877-stone-game](https://github.com/Azinks/Leet-Hustling/tree/main/0877-stone-game/) | Medium |
+| [3870-count-commas-in-range](https://github.com/Azinks/Leet-Hustling/tree/main/3870-count-commas-in-range/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
