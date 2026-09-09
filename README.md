@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Azinks/Leet-Hustling/tree/main/0486-predict-the-winner/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0877-stone-game](https://github.com/Azinks/Leet-Hustling/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/Azinks/Leet-Hustling/tree/main/0879-profitable-schemes/) | Hard |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Azinks/Leet-Hustling/tree/main/0486-predict-the-winner/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/Azinks/Leet-Hustling/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0799-champagne-tower](https://github.com/Azinks/Leet-Hustling/tree/main/0799-champagne-tower/) | Medium |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Azinks/Leet-Hustling/tree/main/0412-fizz-buzz/) | Easy |
+| [0486-predict-the-winner](https://github.com/Azinks/Leet-Hustling/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Azinks/Leet-Hustling/tree/main/0877-stone-game/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Azinks/Leet-Hustling/tree/main/3870-count-commas-in-range/) | Easy |
 ## Simulation
@@ -141,14 +144,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Azinks/Leet-Hustling/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Azinks/Leet-Hustling/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Azinks/Leet-Hustling/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Azinks/Leet-Hustling/tree/main/0877-stone-game/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Azinks/Leet-Hustling/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Azinks/Leet-Hustling/tree/main/0877-stone-game/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -170,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0879-profitable-schemes](https://github.com/Azinks/Leet-Hustling/tree/main/0879-profitable-schemes/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Azinks/Leet-Hustling/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
