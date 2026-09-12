@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0087-scramble-string](https://github.com/Azinks/Leet-Hustling/tree/main/0087-scramble-string/) | Hard |
 | [0412-fizz-buzz](https://github.com/Azinks/Leet-Hustling/tree/main/0412-fizz-buzz/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Azinks/Leet-Hustling/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Azinks/Leet-Hustling/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0087-scramble-string](https://github.com/Azinks/Leet-Hustling/tree/main/0087-scramble-string/) | Hard |
 | [0486-predict-the-winner](https://github.com/Azinks/Leet-Hustling/tree/main/0486-predict-the-winner/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/Azinks/Leet-Hustling/tree/main/0688-knight-probability-in-chessboard/) | Medium |
