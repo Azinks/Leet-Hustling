@@ -13,19 +13,54 @@ public:
     // }
     int superEggDrop(int k, int n) {
 
-    vector<int> dp(k + 1, 0);
+    vector<vector<int>> dp(k + 1, vector<int>(n + 1, 0));
 
-    int moves = 0;
+    // Base cases
+    for (int f = 0; f <= n; f++) {
+        dp[1][f] = f;
+    }
 
-    while (dp[k] < n) {
+    for (int e = 1; e <= k; e++) {
+        dp[e][0] = 0;
+        dp[e][1] = 1;
+    }
 
-        moves++;
+    for (int e = 2; e <= k; e++) {
 
-        for (int eggs = k; eggs >= 1; eggs--) {
-            dp[eggs] = dp[eggs] + dp[eggs - 1] + 1;
+        for (int f = 2; f <= n; f++) {
+
+            int lo = 1;
+            int hi = f;
+
+            int ans = INT_MAX;
+
+            while (lo <= hi) {
+
+                int mid = lo + (hi - lo) / 2;
+
+                int eggBreaks = dp[e - 1][mid - 1];
+                int eggSurvives = dp[e][f - mid];
+
+                int worst = 1 + max(eggBreaks, eggSurvives);
+
+                ans = min(ans, worst);
+
+                // egg breaks case is smaller
+                // Move right to increase it
+                if (eggBreaks < eggSurvives) {
+                    lo = mid + 1;
+                }
+                else {
+                    // egg breaks >= survives
+                    // Move left
+                    hi = mid - 1;
+                }
+            }
+
+            dp[e][f] = ans;
         }
     }
 
-    return moves;
+    return dp[k][n];
 }
 };
