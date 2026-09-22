@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-champagne-tower](https://github.com/Azinks/Leet-Hustling/tree/main/0799-champagne-tower/) | Medium |
 | [0877-stone-game](https://github.com/Azinks/Leet-Hustling/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/Azinks/Leet-Hustling/tree/main/0879-profitable-schemes/) | Hard |
+| [0887-super-egg-drop](https://github.com/Azinks/Leet-Hustling/tree/main/0887-super-egg-drop/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Azinks/Leet-Hustling/tree/main/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Azinks/Leet-Hustling/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Azinks/Leet-Hustling/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0887-super-egg-drop](https://github.com/Azinks/Leet-Hustling/tree/main/0887-super-egg-drop/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 ## Math
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Azinks/Leet-Hustling/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/Azinks/Leet-Hustling/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Azinks/Leet-Hustling/tree/main/0877-stone-game/) | Medium |
+| [0887-super-egg-drop](https://github.com/Azinks/Leet-Hustling/tree/main/0887-super-egg-drop/) | Hard |
 | [3870-count-commas-in-range](https://github.com/Azinks/Leet-Hustling/tree/main/3870-count-commas-in-range/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
