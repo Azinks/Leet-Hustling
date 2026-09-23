@@ -207,4 +207,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Azinks/Leet-Hustling/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
