@@ -27,7 +27,15 @@ public:
             for(int i = 0 ; i < size ; i++){
                 Node* levelNode = q.front();
                 q.pop();
+                cout<<levelNode->val<<endl;
+
+                //This Below If Won't Work As Every Non-last Node Will Fill The Queue 
+                // if(q.empty()){
+                //     cout<<"In"<<endl;
+                //     levelNode->next = nullptr;
+                // }
                 if(i == size - 1){
+                    cout<<"In"<<endl;
                     levelNode->next = nullptr;
                 }
                 else{
