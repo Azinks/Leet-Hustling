@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0087-scramble-string](https://github.com/Azinks/Leet-Hustling/tree/main/0087-scramble-string/) | Hard |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/Azinks/Leet-Hustling/tree/main/0486-predict-the-winner/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/Azinks/Leet-Hustling/tree/main/0688-knight-probability-in-chessboard/) | Medium |
@@ -210,10 +211,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -222,5 +225,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
