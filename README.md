@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1027-longest-arithmetic-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Azinks/Leet-Hustling/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Azinks/Leet-Hustling/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2370-longest-ideal-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Azinks/Leet-Hustling/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0513-find-bottom-left-tree-value](https://github.com/Azinks/Leet-Hustling/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0513-find-bottom-left-tree-value](https://github.com/Azinks/Leet-Hustling/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Azinks/Leet-Hustling/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Azinks/Leet-Hustling/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,8 +246,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0513-find-bottom-left-tree-value](https://github.com/Azinks/Leet-Hustling/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
