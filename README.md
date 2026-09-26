@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1824-minimum-sideway-jumps](https://github.com/Azinks/Leet-Hustling/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Azinks/Leet-Hustling/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Azinks/Leet-Hustling/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Azinks/Leet-Hustling/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3366-minimum-array-sum](https://github.com/Azinks/Leet-Hustling/tree/main/3366-minimum-array-sum/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Azinks/Leet-Hustling/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Azinks/Leet-Hustling/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Azinks/Leet-Hustling/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2370-longest-ideal-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Azinks/Leet-Hustling/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Azinks/Leet-Hustling/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
