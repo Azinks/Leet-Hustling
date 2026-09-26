@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0513-find-bottom-left-tree-value](https://github.com/Azinks/Leet-Hustling/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0513-find-bottom-left-tree-value](https://github.com/Azinks/Leet-Hustling/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0513-find-bottom-left-tree-value](https://github.com/Azinks/Leet-Hustling/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
