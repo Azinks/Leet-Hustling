@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
