@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/Azinks/Leet-Hustling/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
