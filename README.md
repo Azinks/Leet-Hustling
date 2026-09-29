@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Azinks/Leet-Hustling/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Azinks/Leet-Hustling/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Azinks/Leet-Hustling/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Azinks/Leet-Hustling/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3366-minimum-array-sum](https://github.com/Azinks/Leet-Hustling/tree/main/3366-minimum-array-sum/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Azinks/Leet-Hustling/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Azinks/Leet-Hustling/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1824-minimum-sideway-jumps](https://github.com/Azinks/Leet-Hustling/tree/main/1824-minimum-sideway-jumps/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Azinks/Leet-Hustling/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2370-longest-ideal-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [3366-minimum-array-sum](https://github.com/Azinks/Leet-Hustling/tree/main/3366-minimum-array-sum/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Azinks/Leet-Hustling/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1463-cherry-pickup-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Azinks/Leet-Hustling/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Azinks/Leet-Hustling/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Azinks/Leet-Hustling/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Bit Manipulation
@@ -287,4 +290,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Azinks/Leet-Hustling/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Azinks/Leet-Hustling/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
