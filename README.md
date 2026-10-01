@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Azinks/Leet-Hustling/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
+| [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1824-minimum-sideway-jumps](https://github.com/Azinks/Leet-Hustling/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Azinks/Leet-Hustling/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Sorting
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Azinks/Leet-Hustling/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Azinks/Leet-Hustling/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## Depth-First Search
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Azinks/Leet-Hustling/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -283,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Azinks/Leet-Hustling/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## DP on Trees
@@ -310,4 +315,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Azinks/Leet-Hustling/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
