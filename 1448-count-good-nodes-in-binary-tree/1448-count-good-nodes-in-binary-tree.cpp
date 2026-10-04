@@ -20,33 +20,34 @@ public:
         solve(root->right,cnt,max(root->val,prev_val));
     }
     int goodNodes(TreeNode* root) {
-        // int cnt = 0;
-        // int maxi = -1e9;
-        // queue<pair<TreeNode*,int>>q;
-        // q.push({root,root->val});
-        // while(!q.empty()){
-        //     int size = q.size();
-        //     for(int i = 0 ; i < size ; i++){
-        //         TreeNode * node =  q.front().first;
-        //         int val = q.front().second;
-        //         q.pop();
-        //         if(node->val >= val){
-        //             cout<<node->val<<endl;
-        //             maxi = max(maxi,max(node->val,val));
-        //             cnt++;
-
-        //         }
-        //         if(node->left != nullptr){
-        //             q.push({node->left,maxi});
-        //         }
-        //         if(node->right != nullptr){
-        //             q.push({node->right,maxi});
-        //         }
-        //     }
-        // }
-        // return cnt;
         int cnt = 0;
-        solve(root,cnt,-1e9);
+        int maxi = -1e9;
+        queue<pair<TreeNode*,int>>q;
+        q.push({root,root->val});
+        while(!q.empty()){
+            int size = q.size();
+            for(int i = 0 ; i < size ; i++){
+                TreeNode * node =  q.front().first;
+                int prev_val = q.front().second;
+                q.pop();
+                if(node->val >= prev_val){
+                    cout<<node->val<<endl;
+                    // maxi = max(maxi,max(node->val,val));
+                    cnt++;
+
+                }
+                int val = max(node->val,prev_val);
+                if(node->left != nullptr){
+                    q.push({node->left,val});
+                }
+                if(node->right != nullptr){
+                    q.push({node->right,val});
+                }
+            }
+        }
         return cnt;
+        // int cnt = 0;
+        // solve(root,cnt,-1e9);
+        // return cnt;
     }
 };
