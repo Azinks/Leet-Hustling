@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Azinks/Leet-Hustling/tree/main/0414-third-maximum-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/Azinks/Leet-Hustling/tree/main/0486-predict-the-winner/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0741-cherry-pickup](https://github.com/Azinks/Leet-Hustling/tree/main/0741-cherry-pickup/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Azinks/Leet-Hustling/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0877-stone-game](https://github.com/Azinks/Leet-Hustling/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/Azinks/Leet-Hustling/tree/main/0879-profitable-schemes/) | Hard |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Azinks/Leet-Hustling/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/Azinks/Leet-Hustling/tree/main/0688-knight-probability-in-chessboard/) | Medium |
+| [0741-cherry-pickup](https://github.com/Azinks/Leet-Hustling/tree/main/0741-cherry-pickup/) | Hard |
 | [0799-champagne-tower](https://github.com/Azinks/Leet-Hustling/tree/main/0799-champagne-tower/) | Medium |
 | [0877-stone-game](https://github.com/Azinks/Leet-Hustling/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/Azinks/Leet-Hustling/tree/main/0879-profitable-schemes/) | Hard |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Azinks/Leet-Hustling/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0741-cherry-pickup](https://github.com/Azinks/Leet-Hustling/tree/main/0741-cherry-pickup/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Azinks/Leet-Hustling/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Azinks/Leet-Hustling/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
