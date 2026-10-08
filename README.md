@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Azinks/Leet-Hustling/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Azinks/Leet-Hustling/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Azinks/Leet-Hustling/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Azinks/Leet-Hustling/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Azinks/Leet-Hustling/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Azinks/Leet-Hustling/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 ## Binary Tree
@@ -304,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Azinks/Leet-Hustling/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Azinks/Leet-Hustling/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
