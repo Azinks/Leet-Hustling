@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Azinks/Leet-Hustling/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Azinks/Leet-Hustling/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Azinks/Leet-Hustling/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1824-minimum-sideway-jumps](https://github.com/Azinks/Leet-Hustling/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Azinks/Leet-Hustling/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Sorting
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Azinks/Leet-Hustling/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Azinks/Leet-Hustling/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Azinks/Leet-Hustling/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Azinks/Leet-Hustling/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Azinks/Leet-Hustling/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Azinks/Leet-Hustling/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Azinks/Leet-Hustling/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/Azinks/Leet-Hustling/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Azinks/Leet-Hustling/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Azinks/Leet-Hustling/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Azinks/Leet-Hustling/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Azinks/Leet-Hustling/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -342,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/Azinks/Leet-Hustling/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Azinks/Leet-Hustling/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Azinks/Leet-Hustling/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Azinks/Leet-Hustling/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Azinks/Leet-Hustling/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Azinks/Leet-Hustling/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Binary Search Tree
