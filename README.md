@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Azinks/Leet-Hustling/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Azinks/Leet-Hustling/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Azinks/Leet-Hustling/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Azinks/Leet-Hustling/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3366-minimum-array-sum](https://github.com/Azinks/Leet-Hustling/tree/main/3366-minimum-array-sum/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Azinks/Leet-Hustling/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Azinks/Leet-Hustling/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Azinks/Leet-Hustling/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
