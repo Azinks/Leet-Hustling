@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Azinks/Leet-Hustling/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Azinks/Leet-Hustling/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Azinks/Leet-Hustling/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Azinks/Leet-Hustling/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Azinks/Leet-Hustling/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3366-minimum-array-sum](https://github.com/Azinks/Leet-Hustling/tree/main/3366-minimum-array-sum/) | Medium |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Azinks/Leet-Hustling/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1824-minimum-sideway-jumps](https://github.com/Azinks/Leet-Hustling/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Azinks/Leet-Hustling/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Azinks/Leet-Hustling/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Azinks/Leet-Hustling/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Azinks/Leet-Hustling/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Azinks/Leet-Hustling/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0887-super-egg-drop](https://github.com/Azinks/Leet-Hustling/tree/main/0887-super-egg-drop/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Azinks/Leet-Hustling/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Azinks/Leet-Hustling/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Azinks/Leet-Hustling/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Azinks/Leet-Hustling/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
