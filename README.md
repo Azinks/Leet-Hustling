@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1609-even-odd-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1609-even-odd-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Azinks/Leet-Hustling/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Azinks/Leet-Hustling/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Azinks/Leet-Hustling/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1609-even-odd-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1609-even-odd-tree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Azinks/Leet-Hustling/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1609-even-odd-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1609-even-odd-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Azinks/Leet-Hustling/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Azinks/Leet-Hustling/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
