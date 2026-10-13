@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Azinks/Leet-Hustling/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Azinks/Leet-Hustling/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Azinks/Leet-Hustling/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Azinks/Leet-Hustling/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Azinks/Leet-Hustling/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1609-even-odd-tree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Azinks/Leet-Hustling/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Azinks/Leet-Hustling/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Azinks/Leet-Hustling/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
