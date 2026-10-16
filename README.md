@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Azinks/Leet-Hustling/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Azinks/Leet-Hustling/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Azinks/Leet-Hustling/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Azinks/Leet-Hustling/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Azinks/Leet-Hustling/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Azinks/Leet-Hustling/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Azinks/Leet-Hustling/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Azinks/Leet-Hustling/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Azinks/Leet-Hustling/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -377,4 +380,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Azinks/Leet-Hustling/tree/main/0022-generate-parentheses/) | Medium |
+| [0113-path-sum-ii](https://github.com/Azinks/Leet-Hustling/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
