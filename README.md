@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Azinks/Leet-Hustling/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Azinks/Leet-Hustling/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Azinks/Leet-Hustling/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Azinks/Leet-Hustling/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Azinks/Leet-Hustling/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Azinks/Leet-Hustling/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Azinks/Leet-Hustling/tree/main/1302-deepest-leaves-sum/) | Medium |
