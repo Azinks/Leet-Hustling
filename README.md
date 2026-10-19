@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Azinks/Leet-Hustling/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 | [1609-even-odd-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1609-even-odd-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Azinks/Leet-Hustling/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Azinks/Leet-Hustling/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Azinks/Leet-Hustling/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-delete-leaves-with-a-given-value](https://github.com/Azinks/Leet-Hustling/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Azinks/Leet-Hustling/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 | [1609-even-odd-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1609-even-odd-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Azinks/Leet-Hustling/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Azinks/Leet-Hustling/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -350,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Azinks/Leet-Hustling/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
