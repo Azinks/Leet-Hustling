@@ -1,27 +1,50 @@
 class Solution {
 public:
     int findNumberOfLIS(vector<int>& nums) {
+
         int n = nums.size();
-        vector<int>temp(n+1,1);
-        vector<int>cnt(n+1,1);
-        for(int i = 0 ; i < n ; i++){
-            for(int j = 0 ; j < i ; j++){
-                if(nums[j] < nums[i]){
-                    if(temp[j] + 1 == temp[i]){
-                        cnt[i] = cnt[i] + cnt[j];
-                    }
-                    else if(temp[j] + 1 > temp[i]){
-                        temp[i] = temp[j] + 1;
-                        cnt[i] = cnt[j];
-                    }
-                }
+
+        // dp[idx][prevIdx] = {length, count}
+        vector<vector<pair<int,int>>> dp(
+            n, vector<pair<int,int>>(n+1, {0,0})
+        );
+
+        // Base: idx = -1 → length 0, count 1
+        // We simulate this by initializing dp[0][*] carefully later
+
+        for(int prev = 0; prev <= n; prev++){
+            dp[0][prev] = {0,1};
+            if(prev == n || nums[0] < nums[prev]){
+                dp[0][prev] = {1,1};
             }
         }
-        int maxi = *max_element(temp.begin() , temp.end());
-        int ans = 0;
-        for(int i = 0 ; i < n ; i++){
-            if(temp[i] == maxi) ans += cnt[i];
+
+        // Build table
+        for(int idx = 1; idx < n; idx++){
+
+            for(int prev = 0; prev <= n; prev++){
+
+                // NOT TAKE
+                pair<int,int> nottake = dp[idx-1][prev];
+
+                // TAKE
+                pair<int,int> take = {-1000000000, 0};
+                if(prev == n || nums[idx] < nums[prev]){
+                    take = dp[idx-1][idx];
+                    take.first += 1;
+                }
+
+                // MERGE
+                if(take.first > nottake.first)
+                    dp[idx][prev] = take;
+                else if(take.first < nottake.first)
+                    dp[idx][prev] = nottake;
+                else
+                    dp[idx][prev] =
+                        {take.first, take.second + nottake.second};
+            }
         }
-        return ans;
+
+        return dp[n-1][n].second;
     }
 };
