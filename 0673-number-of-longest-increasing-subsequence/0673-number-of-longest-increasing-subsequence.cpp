@@ -1,50 +1,41 @@
 class Solution {
+private:
+    vector<vector<pair<int,int>>> dp;
+
+    pair<int,int> memoize(int idx, int prevIdx, vector<int> &nums){
+
+        if(idx < 0) return {0, 1};
+
+        if(dp[idx][prevIdx].first != -1)
+            return dp[idx][prevIdx];
+
+        // NOT TAKE
+        pair<int,int> nottake = memoize(idx-1, prevIdx, nums);
+
+        // TAKE
+        pair<int,int> take = {-1000000000, 0};
+        if(prevIdx == nums.size() || nums[idx] < nums[prevIdx]) {
+            take = memoize(idx-1, idx, nums);
+            take.first = 1 + take.first;
+        }
+
+        // MERGE
+        if(take.first > nottake.first)
+            return dp[idx][prevIdx] = take;
+        else if(take.first < nottake.first)
+            return dp[idx][prevIdx] = nottake;
+        else
+            return dp[idx][prevIdx] =
+                   {take.first, take.second + nottake.second};
+    }
+
 public:
     int findNumberOfLIS(vector<int>& nums) {
 
         int n = nums.size();
+        dp.assign(n, vector<pair<int,int>>(n+1, {-1, -1}));
 
-        // dp[idx][prevIdx] = {length, count}
-        vector<vector<pair<int,int>>> dp(
-            n, vector<pair<int,int>>(n+1, {0,0})
-        );
-
-        // Base: idx = -1 → length 0, count 1
-        // We simulate this by initializing dp[0][*] carefully later
-
-        for(int prev = 0; prev <= n; prev++){
-            dp[0][prev] = {0,1};
-            if(prev == n || nums[0] < nums[prev]){
-                dp[0][prev] = {1,1};
-            }
-        }
-
-        // Build table
-        for(int idx = 1; idx < n; idx++){
-
-            for(int prev = 0; prev <= n; prev++){
-
-                // NOT TAKE
-                pair<int,int> nottake = dp[idx-1][prev];
-
-                // TAKE
-                pair<int,int> take = {-1000000000, 0};
-                if(prev == n || nums[idx] < nums[prev]){
-                    take = dp[idx-1][idx];
-                    take.first += 1;
-                }
-
-                // MERGE
-                if(take.first > nottake.first)
-                    dp[idx][prev] = take;
-                else if(take.first < nottake.first)
-                    dp[idx][prev] = nottake;
-                else
-                    dp[idx][prev] =
-                        {take.first, take.second + nottake.second};
-            }
-        }
-
-        return dp[n-1][n].second;
+        pair<int,int> ans = memoize(n-1, n, nums);
+        return ans.second;
     }
 };
