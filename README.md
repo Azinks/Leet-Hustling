@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Azinks/Leet-Hustling/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2370-longest-ideal-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Azinks/Leet-Hustling/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Azinks/Leet-Hustling/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
