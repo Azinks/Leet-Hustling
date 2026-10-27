@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/Azinks/Leet-Hustling/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Azinks/Leet-Hustling/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0687-longest-univalue-path](https://github.com/Azinks/Leet-Hustling/tree/main/0687-longest-univalue-path/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Azinks/Leet-Hustling/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/Azinks/Leet-Hustling/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Azinks/Leet-Hustling/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0687-longest-univalue-path](https://github.com/Azinks/Leet-Hustling/tree/main/0687-longest-univalue-path/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Azinks/Leet-Hustling/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/Azinks/Leet-Hustling/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Azinks/Leet-Hustling/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0687-longest-univalue-path](https://github.com/Azinks/Leet-Hustling/tree/main/0687-longest-univalue-path/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Azinks/Leet-Hustling/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -365,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0687-longest-univalue-path](https://github.com/Azinks/Leet-Hustling/tree/main/0687-longest-univalue-path/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Azinks/Leet-Hustling/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## Design
 | Problem Name | Difficulty |
