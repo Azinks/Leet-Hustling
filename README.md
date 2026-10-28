@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Azinks/Leet-Hustling/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/Azinks/Leet-Hustling/tree/main/0414-third-maximum-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/Azinks/Leet-Hustling/tree/main/0486-predict-the-winner/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0741-cherry-pickup](https://github.com/Azinks/Leet-Hustling/tree/main/0741-cherry-pickup/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Azinks/Leet-Hustling/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Azinks/Leet-Hustling/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/Azinks/Leet-Hustling/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Azinks/Leet-Hustling/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Azinks/Leet-Hustling/tree/main/0687-longest-univalue-path/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Azinks/Leet-Hustling/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
@@ -349,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/Azinks/Leet-Hustling/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Azinks/Leet-Hustling/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Azinks/Leet-Hustling/tree/main/0687-longest-univalue-path/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Azinks/Leet-Hustling/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Azinks/Leet-Hustling/tree/main/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
@@ -383,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Azinks/Leet-Hustling/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Azinks/Leet-Hustling/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0654-maximum-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Azinks/Leet-Hustling/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Azinks/Leet-Hustling/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Azinks/Leet-Hustling/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -412,4 +417,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Azinks/Leet-Hustling/tree/main/0022-generate-parentheses/) | Medium |
 | [0113-path-sum-ii](https://github.com/Azinks/Leet-Hustling/tree/main/0113-path-sum-ii/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0654-maximum-binary-tree/) | Medium |
+## Cartesian Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0654-maximum-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
