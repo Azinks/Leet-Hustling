@@ -56,8 +56,6 @@ public:
         // Handle base cases safely
         if (!head) return nullptr;
         if (!head->next) return new TreeNode(head->val);
-        
-        // FIX 2: Simply pass nullptr as the tail. 
         // In exclusive bound logic, the end of the list is represented by nullptr.
         return buildBST(head, nullptr);
     }
