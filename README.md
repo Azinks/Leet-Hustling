@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Azinks/Leet-Hustling/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Azinks/Leet-Hustling/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Azinks/Leet-Hustling/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Azinks/Leet-Hustling/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Azinks/Leet-Hustling/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Azinks/Leet-Hustling/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -353,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Azinks/Leet-Hustling/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Azinks/Leet-Hustling/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -423,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Azinks/Leet-Hustling/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
