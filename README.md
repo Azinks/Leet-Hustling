@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Azinks/Leet-Hustling/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/Azinks/Leet-Hustling/tree/main/0414-third-maximum-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/Azinks/Leet-Hustling/tree/main/0486-predict-the-winner/) | Medium |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Azinks/Leet-Hustling/tree/main/0113-path-sum-ii/) | Medium |
@@ -356,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/Azinks/Leet-Hustling/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Azinks/Leet-Hustling/tree/main/0113-path-sum-ii/) | Medium |
@@ -427,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/Azinks/Leet-Hustling/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Azinks/Leet-Hustling/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
