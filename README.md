@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Azinks/Leet-Hustling/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Azinks/Leet-Hustling/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Azinks/Leet-Hustling/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Azinks/Leet-Hustling/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Azinks/Leet-Hustling/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Azinks/Leet-Hustling/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Azinks/Leet-Hustling/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0887-super-egg-drop](https://github.com/Azinks/Leet-Hustling/tree/main/0887-super-egg-drop/) | Hard |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Azinks/Leet-Hustling/tree/main/1884-egg-drop-with-2-eggs-and-n-floors/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Azinks/Leet-Hustling/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Azinks/Leet-Hustling/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Azinks/Leet-Hustling/tree/main/3870-count-commas-in-range/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
