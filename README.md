@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1027-longest-arithmetic-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Azinks/Leet-Hustling/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Azinks/Leet-Hustling/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Azinks/Leet-Hustling/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Azinks/Leet-Hustling/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1575-count-all-possible-routes](https://github.com/Azinks/Leet-Hustling/tree/main/1575-count-all-possible-routes/) | Hard |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Azinks/Leet-Hustling/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Azinks/Leet-Hustling/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Azinks/Leet-Hustling/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Azinks/Leet-Hustling/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Azinks/Leet-Hustling/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Azinks/Leet-Hustling/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0786-k-th-smallest-prime-fraction](https://github.com/Azinks/Leet-Hustling/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0887-super-egg-drop](https://github.com/Azinks/Leet-Hustling/tree/main/0887-super-egg-drop/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/Azinks/Leet-Hustling/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Azinks/Leet-Hustling/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Azinks/Leet-Hustling/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Azinks/Leet-Hustling/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Azinks/Leet-Hustling/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Azinks/Leet-Hustling/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Azinks/Leet-Hustling/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
